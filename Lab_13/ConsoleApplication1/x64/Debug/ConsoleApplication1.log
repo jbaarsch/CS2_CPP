@@ -1,0 +1,19 @@
+﻿  circles.cpp
+  floatarray.cpp
+  inventory.cpp
+C:\Users\jbaarsch\Documents\UCA\CSCI 1470\Lab Manual\Lab Manual Source Code\Lab 13\inventory.cpp(52,6): warning C4101: 'pos': unreferenced local variable
+C:\Users\jbaarsch\Documents\UCA\CSCI 1470\Lab Manual\Lab Manual Source Code\Lab 13\inventory.cpp(54,6): warning C4101: 'total': unreferenced local variable
+C:\Users\jbaarsch\Documents\UCA\CSCI 1470\Lab Manual\Lab Manual Source Code\Lab 13\inventory.cpp(53,6): warning C4101: 'id': unreferenced local variable
+  square.cpp
+C:\Users\jbaarsch\Documents\UCA\CSCI 1470\Lab Manual\Lab Manual Source Code\Lab 13\square.cpp(14,2): error C2065: 'Square': undeclared identifier
+C:\Users\jbaarsch\Documents\UCA\CSCI 1470\Lab Manual\Lab Manual Source Code\Lab 13\square.cpp(14,9): error C2146: syntax error: missing ';' before identifier 'box'
+C:\Users\jbaarsch\Documents\UCA\CSCI 1470\Lab Manual\Lab Manual Source Code\Lab 13\square.cpp(14,9): error C2065: 'box': undeclared identifier
+C:\Users\jbaarsch\Documents\UCA\CSCI 1470\Lab Manual\Lab Manual Source Code\Lab 13\square.cpp(43,6): error C2653: 'Square': is not a class or namespace name
+C:\Users\jbaarsch\Documents\UCA\CSCI 1470\Lab Manual\Lab Manual Source Code\Lab 13\square.cpp(45,2): error C2065: 'side': undeclared identifier
+C:\Users\jbaarsch\Documents\UCA\CSCI 1470\Lab Manual\Lab Manual Source Code\Lab 13\square.cpp(56,7): error C2653: 'Square': is not a class or namespace name
+C:\Users\jbaarsch\Documents\UCA\CSCI 1470\Lab Manual\Lab Manual Source Code\Lab 13\square.cpp(58,9): error C2065: 'side': undeclared identifier
+C:\Users\jbaarsch\Documents\UCA\CSCI 1470\Lab Manual\Lab Manual Source Code\Lab 13\square.cpp(58,16): error C2065: 'side': undeclared identifier
+C:\Users\jbaarsch\Documents\UCA\CSCI 1470\Lab Manual\Lab Manual Source Code\Lab 13\square.cpp(69,7): error C2653: 'Square': is not a class or namespace name
+C:\Users\jbaarsch\Documents\UCA\CSCI 1470\Lab Manual\Lab Manual Source Code\Lab 13\square.cpp(71,13): error C2065: 'side': undeclared identifier
+  ConsoleApplication1.cpp
+  Generating Code...
